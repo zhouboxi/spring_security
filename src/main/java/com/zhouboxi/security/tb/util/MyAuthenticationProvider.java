@@ -1,7 +1,8 @@
 package com.zhouboxi.security.tb.util;
 
-import com.topband.tb.entity.SysUser;
-import com.topband.tb.service.CustomUserService;
+
+import com.zhouboxi.security.tb.entity.SysUser;
+import com.zhouboxi.security.tb.service.CustomUserService;
 import org.springframework.security.authentication.AuthenticationProvider;
 import org.springframework.security.authentication.BadCredentialsException;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

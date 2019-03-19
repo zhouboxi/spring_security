@@ -1,7 +1,8 @@
 package com.zhouboxi.security.tb.service;
 
-import com.topband.tb.dao.SysUserRepository;
-import com.topband.tb.entity.SysUser;
+
+import com.zhouboxi.security.tb.dao.SysUserRepository;
+import com.zhouboxi.security.tb.entity.SysUser;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
